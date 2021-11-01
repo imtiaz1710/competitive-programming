@@ -1,0 +1,18 @@
+#include <iostream>
+#include <manip>
+using namespace std;
+int main()
+{
+    vector<double> v;
+    double n;
+    while(cin>>n)
+    {
+        v.push_back(n);
+    }
+    for(int i=v.size();i>=0;i--)
+    {
+        cout<<sqrt(v[i])<<endl;
+        v.pop_back()
+    }
+     
+}

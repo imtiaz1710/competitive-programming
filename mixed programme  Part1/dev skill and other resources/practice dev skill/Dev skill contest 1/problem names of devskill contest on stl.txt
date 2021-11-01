@@ -1,0 +1,34 @@
+
+Overview
+Problem
+Status
+Rank (168:00:00)
+0 Comments
+Stat	#	Origin	Title
+Solved	22 / 31	A	HackerRank cpp-sets	Sets-STL
+Solved	21 / 25	B	HackerRank cpp-maps	Maps-STL
+Solved	22 / 32	C	HackerRank vector-sort	Vector-Sort
+Solved	20 / 35	D	HackerRank vector-erase	Vector-Erase
+Solved	19 / 31	E	HackerRank cpp-lower-bound	Lower Bound-STL
+Solved	16 / 46	F	UVA 11849	CD
+3 / 8		G	UVA 11286	Conformity
+2 / 12		H	UVA 11287	Pseudoprime Numbers
+Solved	7 / 20	I	UVA 11360	Have Fun with Matrices
+Solved	2 / 8	J	HDU 1075	What Are You Talking About
+Solved	12 / 16	K	UVA 12592	Slogan Learning of Princess
+Solved	12 / 18	L	UVA 484		The Department of Redundancy Department
+Solved	4 / 5	M	UVA 541		Error Correction
+Solved	7 / 23	N	UVA 10815	Andy's First Dictionary
+Solved	10 / 10	O	UVA 12015	Google is Feeling Lucky
+Solved	3 / 3	P	SPOJ ACMCEG2C	Pick the candies
+Solved	10 / 13	Q	HDU 1004	Let the Balloon Rise
+Solved	9 / 12	R	SPOJ ACMCEG2B	FIGUREFUL
+Solved	5 / 11	S	SPOJ SORT2D	2D-SORT
+Solved	1 / 2	T	CodeForces 567B	Berland National Library
+Attempted	u	UVA 11572	Unique Snowflakes
+Solved	10 / 23	V	UVA 11917	Do Your Own Homework
+Solved	7 / 7	W	UVA 10295	Hay Points
+Attempted	x	UVA 10954	Add All
+	2 / 6	Y	UVA 540		Team Queue
+Solved	7 / 19	Z	UVA 401		Palindromes
+

@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"odd.sum.segments","c":"OddSumSegments","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"odd.sum.segments","c":"OddSumSegments","l":"OddSumSegments()","url":"%3Cinit%3E()"}]

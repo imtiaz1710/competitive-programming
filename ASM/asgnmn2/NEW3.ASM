@@ -1,0 +1,45 @@
+;a program to prompt the user, and read first, middle and read last initials of a
+;person’s name, and display them down the left margin.
+
+.MODEL SMALL
+.STACK 100H
+.DATA
+	NEWLINE DB 'ENTER THREE INITIALS:$'
+	NEWLINE1 DB 0AH,0DH
+	X DB ?,0AH,0DH
+	Y DB ?,0AH,0DH
+	Z DB ?,'$'
+
+.CODE
+MAIN PROC
+	MOV AX,@DATA
+	MOV DS,AX 
+	
+	MOV AH,9
+	LEA DX,NEWLINE
+	INT 21H
+	
+	MOV AH,1		;INPUT FUNCTION
+	
+	INT 21H			;TAKE THREE VALUE AND MOVE IT TO X,Y AND Z 
+	MOV X,AL
+	
+	INT 21H
+	MOV Y,AL
+	
+	INT 21H
+	MOV Z,AL
+	
+	MOV AH,9
+	LEA DX,NEWLINE1	;PRINT FIRST TO UNTIL '$' CHARACTER OF THE DATA SEGMENT
+	INT 21H
+	
+	MOV AH,1
+	INT 21H
+	
+	MOV AH,4CH		;EXIT DOS
+	INT 21H
+MAIN ENDP
+END MAIN
+	
+	

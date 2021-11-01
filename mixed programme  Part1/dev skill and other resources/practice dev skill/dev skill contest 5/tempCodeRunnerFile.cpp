@@ -1,0 +1,1 @@
+cout<<"atkaya gace 1"<<endl;

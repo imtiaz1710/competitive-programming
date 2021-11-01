@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp"
+    },
+    "editor.quickSuggestions": null,
+    "files.defaultLanguage": "c++",
+    "workbench.tree.renderIndentGuides": "always"
+}

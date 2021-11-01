@@ -1,0 +1,31 @@
+n The name of ALLAH
+Assalamualaikum!
+Alhamdulillah! Class - 16 of CPS Level - 1 is Done!
+Discussed topics :
+1) More practice problems on Upper bound & Lower bound
+2) First and last occurrences of X (GFG)
+Link : https://practice.geeksforgeeks.org/…/first-and-last-occur…/0
+My Code : https://paste.ubuntu.com/p/k9YDqNB5HM/
+3) BSEARCH1 - Binary search (Spoj)
+Link : https://www.spoj.com/problems/BSEARCH1/
+My Code : https://paste.ubuntu.com/p/cz6B2JtkDj/
+4) Two Sum II - Input array is sorted (Leetcode)
+Link : https://leetcode.com/prob…/two-sum-ii-input-array-is-sorted/
+My Code : https://paste.ubuntu.com/p/cz6B2JtkDj/
+5) Search Insert Position (Leetcode)
+Link :https://leetcode.com/problems/search-insert-position/
+My Code : https://paste.ubuntu.com/p/rkXSDTNwqM/
+6) Count Negative Numbers in a Sorted Matrix (Leetcode)
+Link :https://leetcode.com/…/count-negative-numbers-in-a-sorted-…/
+My Code : https://paste.ubuntu.com/p/hJyJHmWwtY/
+Class Tasks :
+All the problems discussed in class are class tasks.
+Facebook Page : https://www.facebook.com/bd.cpsacademy
+Facebook group : https://www.facebook.com/groups/886866528461188
+YouTube Channel : https://www.youtube.com/cpsacademy
+Telegram group : https://t.me/joinchat/KJp0sRBa9hAXFE7Wt7ArIg
+Telegram Channel : https://t.me/CompetitveProgramminWithShahriar
+My Profiles :
+Facebook ID : https://www.facebook.com/shahriar76
+Codeforces Handle : http://codeforces.com/profile/_Muhammad
+Stopstalk profile : https://www.stopstalk.com/user/profile/Muhammad
